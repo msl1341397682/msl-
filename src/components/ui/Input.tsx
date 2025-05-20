@@ -19,7 +19,7 @@ const Input: React.FC<InputProps> = ({
   placeholder,
   value,
   onChange,
-  required = false,
+  required = false, 
   error,
   className = '',
 }) => {
